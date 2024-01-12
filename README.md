@@ -1,6 +1,5 @@
 # SailWebsite
 
-Clone the master branch and run:\
+Clone the branch of your name and run:\
 cd sail\
-npm install\
-
+npm install
